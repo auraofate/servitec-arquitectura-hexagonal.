@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "customer": "Danny Blanco",
+    "phone": "3122359452",
+    "device": "IPhone 13 pro max",
+    "problem": "No lee la simcar",
+    "status": "Entregado",
+    "createdAt": "2026-11-18T03:11:34.554Z"
+  }
+]
