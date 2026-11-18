@@ -3,6 +3,7 @@ import cors from 'cors';
 import { JsonServiceRequestRepository } from './infrastructure/JsonServiceRequestRepository.js';
 import { ServiceRequestUseCases } from './application/ServiceRequestUseCases.js';
 import { createServiceRequestRoutes } from './adapters/http/serviceRequestRoutes.js';
+import path from 'path';
 
 const app = express();
 const PORT = 5000;
